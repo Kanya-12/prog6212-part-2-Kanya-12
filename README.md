@@ -94,3 +94,5 @@ RaceDay/
 │       └── part2-ci.yml
 └── README.md
 ```
+
+## Database Setup:
