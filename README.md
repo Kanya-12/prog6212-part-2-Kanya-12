@@ -205,3 +205,4 @@ dotnet test RaceDay.sln
 
 All 54 tests pass locally and in GitHub Actions.
 
+## CI/CD
