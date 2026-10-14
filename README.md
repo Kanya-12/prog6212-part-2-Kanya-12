@@ -211,6 +211,8 @@ All 54 tests pass locally and in GitHub Actions.
 
 .github/workflows/part1-ci.yml also still runs and checks the Part 1 documents.
 
+Successful build screenshot For Par2 CI:
+
 ## Video Presentation
 
 Part 2 YouTube link (unlisted):
