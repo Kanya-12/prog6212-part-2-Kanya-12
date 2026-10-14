@@ -120,3 +120,6 @@ dotnet run --project RaceDay.Api --launch-profile https
 ```
 
 Then browse to https://localhost:7236/swagger.
+
+*Authentication*
+
