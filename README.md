@@ -10,3 +10,4 @@ This repository contains the Part 2 implementation for PROG6212 (Programming 2B)
 
 2. *User Roles*
 
+A) *Organiser:*
