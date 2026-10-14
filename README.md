@@ -19,3 +19,4 @@ A) *Organiser:*
 - Captures and corrects finish times and finishing positions for their own events.
 - Cannot enrol in events or edit another organiser's events.
 
+B) *Participant:*
