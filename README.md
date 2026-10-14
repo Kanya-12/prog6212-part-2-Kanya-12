@@ -178,7 +178,10 @@ That is 26 endpoints: the 24 in the Part 1 plan plus the two added in Part 2.
 
 No entities, attributes, keys, or relationships differ between the ERD, the SQL script, and the EF Core model.
 
+
 ## Swagger
 
 Swagger UI is available at /swagger while the API runs in the Development environment. Every endpoint is listed and can be tested directly in the browser, grouped by controller (Auth, Profile, Events, Categories, Routes, Enrolments, Results). Endpoint descriptions come from the XML comments on each controller action.
+
+## Unit Testing*
 
