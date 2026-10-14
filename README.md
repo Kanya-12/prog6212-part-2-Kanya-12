@@ -185,3 +185,4 @@ Swagger UI is available at /swagger while the API runs in the Development enviro
 
 ## Unit Testing*
 
+The RaceDay.Api.Tests project contains 54 xUnit tests. Each test class starts the real API in memory using WebApplicationFactory and swaps SQL Server for a temporary in-memory database so the tests never touch the real database.
