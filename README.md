@@ -11,3 +11,11 @@ This repository contains the Part 2 implementation for PROG6212 (Programming 2B)
 2. *User Roles*
 
 A) *Organiser:*
+
+- Registers and logs in as an organiser.
+- Creates, edits, and deletes their own events.
+- Manages categories and routes for their own events.
+- Views all enrolments for their own events and can change an enrolment status.
+- Captures and corrects finish times and finishing positions for their own events.
+- Cannot enrol in events or edit another organiser's events.
+
