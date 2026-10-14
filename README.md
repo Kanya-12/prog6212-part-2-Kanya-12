@@ -29,3 +29,5 @@ B) *Participant:*
 - Cannot create, edit, or delete events, categories, routes, or results.
 
 Both roles can view and update their own profile.
+
+3. *Part 1 Deliverables*
