@@ -47,3 +47,4 @@ The Part 1 workflow (.github/workflows/part1-ci.yml) checks that the /docs folde
 
 ## Part 1 CI screenshot:*
 
+<img width="813" height="54" alt="image" src="https://github.com/user-attachments/assets/06b55ae6-450c-409b-bdab-0b66e0aae5cb" />
