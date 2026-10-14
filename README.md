@@ -183,6 +183,8 @@ No entities, attributes, keys, or relationships differ between the ERD, the SQL 
 
 Swagger UI is available at /swagger while the API runs in the Development environment. Every endpoint is listed and can be tested directly in the browser, grouped by controller (Auth, Profile, Events, Categories, Routes, Enrolments, Results). Endpoint descriptions come from the XML comments on each controller action.
 
-## Unit Testing*
+## Unit Testing
 
 The RaceDay.Api.Tests project contains 54 xUnit tests. Each test class starts the real API in memory using WebApplicationFactory and swaps SQL Server for a temporary in-memory database so the tests never touch the real database.
+
+## Automated Tests
