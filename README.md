@@ -104,3 +104,5 @@ RaceDay/
 The API does not seed any data. Register accounts through Swagger as described below.
 
 The docs/RaceDay_Database.sql script from Part 1 creates a separate database called RaceDay; the Part 2 database is RaceDayDb and is generated from EF Core migrations.
+
+## How to Run the API
