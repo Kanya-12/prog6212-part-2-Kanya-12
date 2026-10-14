@@ -213,6 +213,9 @@ All 54 tests pass locally and in GitHub Actions.
 
 Successful build screenshot For Par2 CI:
 
+<img width="818" height="45" alt="image" src="https://github.com/user-attachments/assets/b3eb33e5-9a2c-4992-9537-8c4f4730f8a6" />
+
+
 ## Video Presentation
 
 Part 2 YouTube link (unlisted):
