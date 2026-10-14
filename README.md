@@ -197,3 +197,11 @@ The RaceDay.Api.Tests project contains 54 xUnit tests. Each test class starts th
 | `EnrolmentTests` | Enrolment creation, ownership, and validation tests. |
 | `ResultTests` | Capturing and viewing participant results. |
 
+Run the tests in Visual Studio or with:
+
+```bash
+dotnet test RaceDay.sln
+```
+
+All 54 tests pass locally and in GitHub Actions.
+
