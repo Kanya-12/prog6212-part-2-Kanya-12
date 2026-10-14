@@ -57,3 +57,5 @@ The Part 1 workflow (.github/workflows/part1-ci.yml) checks that the /docs folde
 - https://youtu.be/DlgdIhYUSgA
 
 ## Part 2
+
+*Technologies Used:*
