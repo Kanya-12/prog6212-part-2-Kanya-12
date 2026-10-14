@@ -177,3 +177,5 @@ That is 26 endpoints: the 24 in the Part 1 plan plus the two added in Part 2.
 | Role is a C# enum stored as text in Users.Role | Provides type safety while matching the SQL script. |
 
 No entities, attributes, keys, or relationships differ between the ERD, the SQL script, and the EF Core model.
+
+## Swagger
