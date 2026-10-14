@@ -20,3 +20,10 @@ A) *Organiser:*
 - Cannot enrol in events or edit another organiser's events.
 
 B) *Participant:*
+
+- Registers and logs in as a participant.
+- Browses events, categories, and routes.
+- Enrols in an event by choosing a category.
+- Views and cancels their own enrolments.
+- Views their own results and performance history.
+- Cannot create, edit, or delete events, categories, routes, or results.
