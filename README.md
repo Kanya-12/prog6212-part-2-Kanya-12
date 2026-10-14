@@ -162,3 +162,5 @@ Then browse to https://localhost:7236/swagger.
 | GET | `/api/users/me/results` | Participant | View own results |
 
 That is 26 endpoints: the 24 in the Part 1 plan plus the two added in Part 2.
+
+*Part 2 Changes and Improvements*
