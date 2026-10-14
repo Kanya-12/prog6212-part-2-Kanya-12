@@ -54,3 +54,4 @@ The Part 1 workflow (.github/workflows/part1-ci.yml) checks that the /docs folde
 <img width="898" height="54" alt="image" src="https://github.com/user-attachments/assets/dcaeff56-6205-4a48-85fe-27f0fff2af01" />
 
 ## Part 1 video (unlisted):
+- https://youtu.be/DlgdIhYUSgA
