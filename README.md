@@ -67,7 +67,7 @@ The Part 1 workflow (.github/workflows/part1-ci.yml) checks that the /docs folde
 - xUnit, Microsoft.AspNetCore.Mvc.Testing and the EF Core in-memory provider for tests
 - GitHub Actions for CI/CD
 
-*Project Structure*
+## Project Structure
 
 ```text
 RaceDay/
@@ -96,3 +96,7 @@ RaceDay/
 ```
 
 ## Database Setup:
+1. You need a SQL Server instance. LocalDB is installed with Visual Studio; SQL Server Express also works.
+2. Open RaceDay.Api/appsettings.json and set the Server value in DefaultConnection to your own instance. It must keep the doubled backslash inside the JSON file.
+3. Create the database from the committed migrations using Visual Studio or the terminal with `dotnet ef database update --project RaceDay.Api`.
+4. Open SQL Server Management Studio and expand RaceDayDb → Tables to confirm the Users, Events, Categories, Routes, Enrolments, Results, and __EFMigrationsHistory tables exist.
