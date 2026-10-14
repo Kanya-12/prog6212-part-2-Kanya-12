@@ -67,3 +67,4 @@ The Part 1 workflow (.github/workflows/part1-ci.yml) checks that the /docs folde
 - xUnit, Microsoft.AspNetCore.Mvc.Testing and the EF Core in-memory provider for tests
 - GitHub Actions for CI/CD
 
+*Project Structure*
