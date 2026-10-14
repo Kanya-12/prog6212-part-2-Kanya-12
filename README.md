@@ -219,3 +219,4 @@ Successful build screenshot For Par2 CI:
 ## Video Presentation
 
 Part 2 YouTube link (unlisted):
+https://youtu.be/AqaLe4g8zug
