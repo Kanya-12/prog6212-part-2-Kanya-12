@@ -43,3 +43,4 @@ Both roles can view and update their own profile.
 
 The database has six entities: User, Event, Category, Route, Enrolment, and Result. Enrolment is the associative entity resolving the many-to-many relationship between Participants and Events via a chosen Category. Result has a 1:0..1 relationship with Enrolment because a result only exists once the organiser captures it.
 
+The Part 1 workflow (.github/workflows/part1-ci.yml) checks that the /docs folder and required files exist.
