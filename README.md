@@ -129,3 +129,5 @@ Then browse to https://localhost:7236/swagger.
 - Role enforcement is done by RequireRoleAttribute and returns 401 or 403 as needed.
 - Ownership checks ensure organisers and participants only access the records they own.
 - Sessions are held in server memory, so restarting the API logs everyone out.
+
+*API Endpoint Reference*
