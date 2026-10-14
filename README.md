@@ -160,3 +160,5 @@ Then browse to https://localhost:7236/swagger.
 | PUT | `/api/results/{id}` | Organiser (owner) | Correct a captured result |
 | GET | `/api/events/{eventId}/results` | None | View an event's results |
 | GET | `/api/users/me/results` | Participant | View own results |
+
+That is 26 endpoints: the 24 in the Part 1 plan plus the two added in Part 2.
