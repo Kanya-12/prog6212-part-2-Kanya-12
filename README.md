@@ -27,3 +27,4 @@ B) *Participant:*
 - Views and cancels their own enrolments.
 - Views their own results and performance history.
 - Cannot create, edit, or delete events, categories, routes, or results.
+Both roles can view and update their own profile.
